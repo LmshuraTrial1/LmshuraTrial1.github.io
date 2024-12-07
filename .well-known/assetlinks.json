@@ -1,9 +1,5 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "lmshura_mobile",
-      "package_name": "com.example.lmshura_mobile",
-      "sha256_cert_fingerprints":
-      ["29:EA:81:4D:BC:77:A7:98:64:0E:06:04:7A:B4:EE:EB:78:8C:C4:4A:9D:D3:10:33:CA:9F:73:C2:E7:10:A7:C8"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "lmshura_mobile", "package_name": "com.example.lmshura_mobile",
+               "sha256_cert_fingerprints": ["29:EA:81:4D:BC:77:A7:98:64:0E:06:04:7A:B4:EE:EB:78:8C:C4:4A:9D:D3:10:33:CA:9F:73:C2:E7:10:A7:C8"] }
+}]
